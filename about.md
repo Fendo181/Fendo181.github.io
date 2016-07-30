@@ -17,10 +17,3 @@ I create a web service in a LAMP environment at the university, and writing an i
 I also like to make a web service is or was the image processing system algorithm, a general sort algorithm is currently in desperate to learn. In addition, since college major was the hardware system, also spear sometimes electronic tools using PIC micon and RaspberryPi, mbet.
 
 :-)
-
-
-[twitter](https://twitter.com/endo_f181)
-
-### Contact me
-
-[email](Fendo181git@gmail.com)
