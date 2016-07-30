@@ -6,7 +6,7 @@
 name: EndoFutoshi
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Endo-Jekyll-Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://github.com/Fendo181/Git_repos/blob/master/Jekyll/pic/icon.jpg
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/Fendo181
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: https://twitter.com/endo_f181?lang=ja
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
