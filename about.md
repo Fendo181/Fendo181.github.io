@@ -3,13 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+name:Endo-Futoshi
+age:22
+Job:web programmer
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm like a chikin-raman
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email](Fendo181git@gmail.com)
