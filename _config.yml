@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: EndoFutoshi
+name: Fendo181.github,io
 
 # Short bio or description (displayed in the header)
-description: Endo-Jekyll-Blog
+description: Jekyll-Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/Fendo181/Git_repos/blob/master/Jekyll/pic/icon.jpg
+avatar: https://github.com/Fendo181/Git_repos/blob/master/Jekyll/pic/icon2.png
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: https://github.com/Fendo181
+  github: Fendo181
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: https://twitter.com/endo_f181?lang=ja
+  twitter: endo_f181?lang=ja
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
