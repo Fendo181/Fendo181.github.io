@@ -6,7 +6,7 @@ permalink: /about/
 name:Endo-Futoshi  
 age:22  
 Job:web programmer  
-like:PHP,Ruby
+skill:PHP,Ruby
 
 
 ### More Information
